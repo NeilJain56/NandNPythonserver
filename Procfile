@@ -1,1 +1,1 @@
-web: gunicorn NandNPythonserver.try
+web: gunicorn try
