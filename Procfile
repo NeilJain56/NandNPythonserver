@@ -1,1 +1,1 @@
-web: gunicorn encrypt:app
+web: gunicorn wsgi:app
