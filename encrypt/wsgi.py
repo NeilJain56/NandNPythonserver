@@ -1,5 +1,5 @@
 import sys
-
+from app import app
 from flask import Flask, render_template, request, redirect, Response
 from flask_cors import CORS, cross_origin
 

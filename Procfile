@@ -1,1 +1,1 @@
-web: gunicorn encrypt:main
+web: gunicorn encrypt:app
