@@ -1,1 +1,1 @@
-web: gunicorn try:main
+web: gunicorn encrypt:try
