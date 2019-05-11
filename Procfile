@@ -1,1 +1,1 @@
-web: gunicorn try
+web: gunicorn try:main
